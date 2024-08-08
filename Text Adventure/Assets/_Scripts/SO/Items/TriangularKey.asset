@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc46da255e0441eeb44e4db3965da089, type: 3}
+  m_Name: TriangularKey
+  m_EditorClassIdentifier: 
+  Name: Triangular key
+  Description: Triangular key
+  UsingResult: You insert the key into the lock and turn it. The lock clicks open,
+    and the door creaks as it slowly swings ajar.The player steps through the door
+    and finds themselves in a dimly lit corridor. Freedom is just a few steps away!
